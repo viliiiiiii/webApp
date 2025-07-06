@@ -16,6 +16,3 @@ A .NET SDK (7.0) is required. Restore packages and run the application:
 ```bash
 dotnet restore
 dotnet run
-```
-
-The app uses an SQLite database (`app.db`).
